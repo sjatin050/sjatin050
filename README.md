@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sjatin050&label=Profile%20views&color=0e75b6&style=flat" alt="sjatin050" /> </p>
 
-- 🔭 I’m currently working on **Flask , MySql , Bootstrap**
+- 🔭 I’m currently Working on **My DSA Skills on Various Coding Platforms**
 
-- 🌱 I’m currently Working on **My DSA Skills on Various Platforms**
+- 🌱 I have worked on various Frameworks **Flask , Bootstrap**
 
 - 📫 How to reach me **jatincodes595@gmail.com**
 
