@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently Working on **My DSA Skills on Various Coding Platforms**
 
-- 🌱 I have worked on various Frameworks **Flask , Bootstrap**
+- 🌱 I have worked on various Frameworks **Flask , Bootstrap** , Pytorch**
 
 - 📫 How to reach me **jatincodes595@gmail.com**
 
