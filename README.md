@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sjatin050&label=Profile%20views&color=0e75b6&style=flat" alt="sjatin050" /> </p>
 
-- 🔭 I’m currently Working on ** Spring Boot and React Projects and also polishing my DSA Skills on Various Coding Platforms**
+- 🔭 I’m currently Working on **Spring Boot and React Projects and also polishing my DSA Skills on Various Coding Platforms**
 
 - 🌱 I have worked on various Frameworks **Flask , Bootstrap , Pytorch , Java , Spring Boot , React**
 
 - 👯 I’m currently collaborating on The Project **Virtual Trial Room**
 
-- 📫 How to reach me **jatincodes595@gmail.com**
+- 📫 Reach Out me on  **[linkedin](https://www.linkedin.com/in/jatin-singh-2865201a0)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
